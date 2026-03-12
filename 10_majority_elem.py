@@ -1,5 +1,6 @@
 arr = [2,2,1,3,1,1,3,1,2]
 
+# Moore'svoting
 count = 0
 candidate: int
 for elem in arr:
